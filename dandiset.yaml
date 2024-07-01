@@ -7,24 +7,9 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 408846922
-  numberOfFiles: 1
-  numberOfSubjects: 1
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
-    name: Macaca mulatta - Rhesus monkey
-    schemaKey: SpeciesType
-  variableMeasured:
-  - ProcessingModule
 citation: 'Filipe, A. Carolina; Park, Il Memming (2024) NeuroTask - Isometric Wrist
   Task: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001060/draft'
