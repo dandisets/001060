@@ -15,8 +15,8 @@ assetsSummary:
   measurementTechnique:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3638821932
-  numberOfFiles: 13
+  numberOfBytes: 408846922
+  numberOfFiles: 1
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -25,16 +25,19 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
-citation: 'Filipe, Carolina (2024) NeuroTask - Isometric Wrist Task: A Benchmark Dataset
-  for Multi-Task, -Session and -Subject Neural Analysis (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/001060/draft'
+citation: 'Filipe, A. Carolina; Park, Il Memming (2024) NeuroTask - Isometric Wrist
+  Task: A Benchmark Dataset for Multi-Task, -Session and -Subject Neural Analysis
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001060/draft'
 contributor:
 - affiliation: []
   email: a.carolina.filipe@gmail.com
   includeInCitation: true
-  name: Filipe, Carolina
+  name: Filipe, A. Carolina
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- includeInCitation: true
+  name: Park, Il Memming
   schemaKey: Person
 dateCreated: '2024-06-14T14:14:33.080772+00:00'
 description: 'NeuroTask is a benchmark dataset designed to facilitate the development
